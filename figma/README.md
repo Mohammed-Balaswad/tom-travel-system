@@ -16,22 +16,23 @@ Low-fidelity wireframes were not created separately; instead, the design was dev
 ## Screens Preview
 
 ### Splash Screen
-![Splash Screen](screens/splash.jpg)
+<img src="screens/splash_1.jpg" alt="Splash Screen" width="300"/>
 
 ### Login Screen
-![Login Screen](screens/login.jpg)
+<img src="screens/login.jpg" alt="Login Screen" width="300"/>
 
 ### Explore Screen
-![Explore Screen](screens/explore.jpg)
+<img src="screens/explore.jpg" alt="Explore Screen" width="300"/>
 
 ### Destination Screen
-![Destination Screen](screens/destination.png)
+<img src="screens/destination.png" alt="Destination Screen" width="300"/>
 
 ### Flight_Booking Screen
-![Flight_Booking Screen](screens/flight_booking.jpg)
+<img src="screens/flight_booking.jpg" alt="Flight_Booking Screen" width="300"/>
 
 ### Payment Screen
-![Payment Screen](screens/payment.jpg)
+<img src="screens/payment.jpg" alt="Payment Screen" width="300"/>
 
 ## Figma Link
 🔗 https://www.figma.com/design/boLRXISvvWJSf15HL7KsDH/Smart-Travel-App?node-id=814-3273&t=l9eND0VjhzjBRMze-1
+
