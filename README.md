@@ -5,7 +5,7 @@ TOM is an academic project aimed at building a digital travel and tourism platfo
 ## Project Structure
 - backend/ → Laravel REST API
 - mobile/  → Flutter mobile application
-- figma/   → UI/UX design assets (optional)
+- figma/   → UI/UX design assets
 
 ## Project Status
 🚧 In progress – the system is under active development.
