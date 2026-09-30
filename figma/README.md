@@ -34,5 +34,5 @@ Low-fidelity wireframes were not created separately; instead, the design was dev
 <img src="screens/payment.jpg" alt="Payment Screen" width="300"/>
 
 ## Figma Link
-🔗 https://www.figma.com/design/boLRXISvvWJSf15HL7KsDH/Smart-Travel-App?node-id=814-3273&t=l9eND0VjhzjBRMze-1
+🔗 https://www.figma.com/proto/boLRXISvvWJSf15HL7KsDH/Smart-Travel-App?node-id=1-2&t=3p1fAF3dcmb9gdxX-1
 
